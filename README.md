@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hadson Roque!</h1>
-<h3 align="center">A passionate junior fullstack web developer from Italy</h3>
 
 <h1 align="center">Hi 👋, I'm Hadson Roque!</h1>
 <h3 align="center">A passionate junior fullstack web developer from Italy</h3>
